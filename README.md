@@ -1,4 +1,5 @@
 # SharpHound - C# Rewrite of the BloodHound Ingestor
+Older version of https://github.com/BloodHoundAD/SharpHound
 
 ## Get SharpHound
 
